@@ -7,8 +7,3 @@
 	path = _layouts
 	url = ../posetmage_layouts.git
 	branch = main
-
-[submodule "assets"]
-	path = assets
-	url = ../Jekyll_assets.git
-	branch = main
