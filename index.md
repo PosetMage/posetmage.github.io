@@ -6,4 +6,4 @@ layout: base
 
 <div id="subbrands"></div>
 
-<script src="https://posetmage.com/assets/js/Sub_Brands.js"></script>
+<script src="https://posetmage.com/cdn/js/Sub_Brands.js"></script>
