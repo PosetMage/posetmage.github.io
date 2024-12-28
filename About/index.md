@@ -12,17 +12,15 @@ In the world of Poset Mage, magic isn’t simply a collection of spells cast at 
 
 Sub-Brands of Poset Mage:
 
-## LatticeMage:
-Focusing on the intricate layers of mastery in various high-skilled areas, LatticeMage serves professionals and enthusiasts in fields such as algorithmic trading, startups, competitive psychology, coding, and productivity workflows. It symbolizes the structured yet interconnected pathways that these fields share with the principles of partially ordered magic.
 
-## ShinraMage:
-Dedicated to fans of anime, comics, games, novels (ACGN), and learners of the Japanese language, ShinraMage merges ACGN culture with educational pursuits. It provides a magical framework for exploring both entertainment and learning, emphasizing the joy and depth of immersive cultural experiences.
+## <img src="https://posetmage.com/Images/Icon/ShinraMage.svg" Height="22" /> ShinraMage:
+Named after "森羅万象" (Shinra banshō), meaning "all things in nature," ShinraMage is dedicated to ACGN fans, particularly those in **art-related majors**. It merges ACGN culture with creative pursuits like **game design, art, and music**, providing a magical framework for exploring immersive cultural expression.
 
-## AlchemyMage:
-Targeted towards the Taiwanese market, AlchemyMage combines business insights, rapid learning techniques, and strategies for overcoming adversity with the allure of AI. Drawing parallels with the mythical philosopher's stone, this sub-brand focuses on transforming and elevating business acumen and personal growth in the face of challenges.
+## <img src="https://posetmage.com/Images/Icon/LatticeMage.svg" Height="22" /> LatticeMage:
+Inspired by the concept of a lattice, representing interconnected structures, LatticeMage focuses on mastery in the **natural sciences**. Serving professionals and enthusiasts in fields like **physiology, psychology, and neuroscience**, it symbolizes the structured pathways of scientific understanding. LatticeMage embodies the rigor and layered complexity of the natural world.
 
-## AI-Mage:
-Specializing in the burgeoning field of AI-generated content (AIGC), AI-Mage is crafted for creators, developers, and innovators who are pioneering the integration of artificial intelligence in creative processes. It represents the cutting edge of technological magic within the Poset Mage universe.
+## <img src="https://posetmage.com/Images/Icon/HomunMage.svg" Height="22" /> HomunMage:
+Inspired by the Homunculus, an artificial creation, HomunMage targets those in **applied science majors**. It combines expertise in **AI, programming, and other technological disciplines**, providing a magical framework for innovation and problem-solving. HomunMage embodies the ingenuity of technological creation.
 
-## The Mission of Poset Mage
-Poset Mage and its sub-brands are committed to transforming how individuals engage with their professions, hobbies, and learning experiences. By blending the structured beauty of poset theory with the boundless possibilities of magic, Poset Mage offers a unique, personalized pathway to mastery and excellence in various fields. Each sub-brand serves as a gateway to specialized knowledge, empowering users to harness their potential and achieve extraordinary results.
+## <img src="https://posetmage.com/Images/Icon/AlchemyMage.svg" Height="22" /> AlchemyMage:
+Symbolizing transformation like the Philosopher's Stone, AlchemyMage focuses on the **social sciences**. Serving those in fields like **economy, entrepreneurship, and spirituality studies**, it combines business insights and strategies to navigate complex human systems. AlchemyMage embodies the power of transformative knowledge in society.
