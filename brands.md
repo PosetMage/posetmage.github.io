@@ -13,7 +13,7 @@ layout: none
 
   <li><a href="https://lattice.posetmage.com"><img src="https://posetmage.com/Images/Icon/LatticeMage.svg" Height="16" /> LatticeMage</a>
     <ul>
-      <li>Natural sciences such as physiology, psychology, neuroscience, math, physics, etc.</li>
+      <li>Natural sciences such as physiology, psychology, neuroscience, math, physics, MMA, poker, Go chess, etc.</li>
     </ul>
   </li>
   
@@ -25,7 +25,7 @@ layout: none
 
   <li><a href="https://alchemy.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage.svg" Height="16" /> 鍊金Mage</a>
     <ul>
-      <li>生活趣事 社會時事 人文歷史地理</li>
+      <li>生活 休閒 社會時事 人文史地</li>
     </ul>
   </li>
   
