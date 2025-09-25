@@ -25,6 +25,13 @@ baseurl: "/"
 repository: posetmage/posetmage.github.io
 description: posetmage
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
+
 # Build settings
 remote_theme: jekyll/minima
 
