@@ -9,6 +9,8 @@ What's a **Partially Ordered Set**?
 
 Imagine you're organizing numbers. You know 1 is less than 3 (1 < 3), and 3 is less than 5 (3 < 5). That means 1 is also less than 5 (1 < 5)!  That's the core idea of a **Partially Ordered Set**.
 
+<img src="./PartiallyOrdered.svg" Height="200" />
+
 A Partially Ordered Set is just a way to show how things are related, where some things "come before" others. Not *everything* needs to be directly compared – it's like a skill tree in a game. You need some skills before you can get others, but you might be able to choose between different paths.
 
 What's **Partially Ordered Magic**?

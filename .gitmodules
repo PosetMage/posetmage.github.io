@@ -1,9 +1,4 @@
-[submodule "_includes"]
-	path = _includes
-	url = ../Jekyll_includes.git
-	branch = main
-
 [submodule "_layouts"]
 	path = _layouts
-	url = ../posetmage_layouts.git
+	url = https://github.com/PosetMage/jekyll_layouts.git
 	branch = main

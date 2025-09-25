@@ -1,0 +1,11 @@
+{
+  "title": "posetmage",
+  "email": "posetmage@gmail.com",
+  "url": "https://poset.posetmage.com",
+  "icon": "https://posetmage.com/Images/Icon/PosetMage.svg",
+  "slogan": "世の中に不満があるなら自分を変えろ。それが嫌なら耳と目を閉じ、口を噤んで孤独に暮らせ。",
+  "navigation": [
+    { "title": "About", "url": "/About/" },
+  { "title": "Contact", "url": "/Contact/" }
+  ]
+}
