@@ -19,6 +19,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build
         uses: actions/jekyll-build-pages@v1
+      - name: Copy CNAME
+        run: cp CNAME _site/ || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
